@@ -1,4 +1,4 @@
 
 <?php
-echo '<span style="color:red;">أحمد</span>';
+echo '<p style="color: yellow;">أحمد</p>';
 ?>
