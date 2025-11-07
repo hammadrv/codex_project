@@ -1,1 +1,4 @@
-<?php echo "<h1 style="color:blue;">Rami Hammad 💙</h1>"; ?>
+
+<?php
+echo '<span style="color:red;">أحمد</span>';
+?>
